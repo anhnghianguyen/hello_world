@@ -1,2 +1,1 @@
-# hello_world
-tinh nong to chan phong
+#huong dan hoc git
